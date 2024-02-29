@@ -1,3 +1,2 @@
 init
-github line2
-github line3
+mac line 2
