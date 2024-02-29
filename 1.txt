@@ -1,4 +1,8 @@
 init
+<<<<<<< HEAD
 github line 2
 github line 3
 github line 4
+=======
+mac line 2
+>>>>>>> 74ddc97 (mac line2)
