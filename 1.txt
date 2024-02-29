@@ -1,18 +1,1 @@
 init
-<<<<<<< HEAD
-<<<<<<< HEAD
-github line 2
-github line 3
-github line 4
-=======
-mac line 2
-<<<<<<< HEAD
->>>>>>> 74ddc97 (mac line2)
-=======
-mac line 2
-mac line 3
->>>>>>> f399034 (mac line3)
-=======
-mac line 3
-mac line 4
->>>>>>> 77a2a20 (mac line4)
